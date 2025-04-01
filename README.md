@@ -1,4 +1,3 @@
-```
 # Calculator Project
 
 🎉 **Calculator Project**는 HTML, CSS, JavaScript를 이용해 간단한 계산기 기능을 구현한 웹 애플리케이션입니다. 기본적인 사칙연산 및 다양한 스타일링 기능을 포함하여 사용자에게 직관적이고 간편한 계산 경험을 제공합니다.
@@ -54,7 +53,7 @@
 - **특수 버튼 스타일링**: `AC`, `DEL` 등의 특수 버튼은 색상을 다르게 설정하여 주요 기능을 강조합니다.
 
 ## 동작 화면
-
+![Image](https://github.com/user-attachments/assets/ae5cf060-815f-4885-8c2c-b3cdc3ea80e9)
 ## 브랜치 전략
 
 이 프로젝트는 **Git Flow**에 기반하여 `main`과 `develop` 브랜치를 사용해 관리합니다.
@@ -68,4 +67,3 @@
 - `feature/calculate-function`: 기본 계산 기능 추가
 - `feature/error-handling`: 오류 처리 기능 추가
 - `feature/button-styling`: 버튼 hover 및 특수 버튼 스타일링 추가
-```
